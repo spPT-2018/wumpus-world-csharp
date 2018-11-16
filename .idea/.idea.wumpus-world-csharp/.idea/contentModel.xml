@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Malte\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Malte\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_wumpus-world-csharp.-136494449.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Malte\Documents\GitHub\wumpus-world-csharp" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="wumpus-world-csharp.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="wumpus-world-csharp.csproj" t="IncludeRecursive" />
+      <e p="wumpus-world-csharp.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

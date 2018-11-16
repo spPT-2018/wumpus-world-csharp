@@ -1,0 +1,11 @@
+C:\Users\Malte\Documents\GitHub\wumpus-world-csharp\obj\Debug\netcoreapp2.1\wumpus-world-csharp.csprojAssemblyReference.cache
+C:\Users\Malte\Documents\GitHub\wumpus-world-csharp\obj\Debug\netcoreapp2.1\wumpus-world-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Malte\Documents\GitHub\wumpus-world-csharp\obj\Debug\netcoreapp2.1\wumpus-world-csharp.AssemblyInfoInputs.cache
+C:\Users\Malte\Documents\GitHub\wumpus-world-csharp\obj\Debug\netcoreapp2.1\wumpus-world-csharp.AssemblyInfo.cs
+C:\Users\Malte\Documents\GitHub\wumpus-world-csharp\bin\Debug\netcoreapp2.1\wumpus-world-csharp.deps.json
+C:\Users\Malte\Documents\GitHub\wumpus-world-csharp\bin\Debug\netcoreapp2.1\wumpus-world-csharp.runtimeconfig.json
+C:\Users\Malte\Documents\GitHub\wumpus-world-csharp\bin\Debug\netcoreapp2.1\wumpus-world-csharp.runtimeconfig.dev.json
+C:\Users\Malte\Documents\GitHub\wumpus-world-csharp\bin\Debug\netcoreapp2.1\wumpus-world-csharp.dll
+C:\Users\Malte\Documents\GitHub\wumpus-world-csharp\bin\Debug\netcoreapp2.1\wumpus-world-csharp.pdb
+C:\Users\Malte\Documents\GitHub\wumpus-world-csharp\obj\Debug\netcoreapp2.1\wumpus-world-csharp.dll
+C:\Users\Malte\Documents\GitHub\wumpus-world-csharp\obj\Debug\netcoreapp2.1\wumpus-world-csharp.pdb
